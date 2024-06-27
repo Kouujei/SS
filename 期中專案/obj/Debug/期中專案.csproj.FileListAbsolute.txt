@@ -1,0 +1,1174 @@
+C:\Users\PCC\Desktop\期中專案\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\PCC\Desktop\期中專案\期中專案\bin\Debug\期中專案.exe
+C:\Users\PCC\Desktop\期中專案\期中專案\bin\Debug\期中專案.pdb
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.exe
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.pdb
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.首頁.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.加入會員.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.登入頁.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.忘記密碼.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.更改密碼.resources
+C:\Users\PCC\Desktop\期中專案\期中專案\obj\Debug\期中專案.UserControl1.resources
+C:\Users\User\Downloads\期中專案\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Downloads\期中專案\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Downloads\期中專案\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.首頁.resources
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Downloads\期中專案\期中專案\obj\Debug\期中專案.pdb
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.商品預覽.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.首頁.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.新增商品.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\SelectShop.mdf
+C:\Users\PCC\Desktop\期中專案UI\期中專案\bin\Debug\SelectShop_log.ldf
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.購物車預覽.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.購物車頁.resources
+C:\Users\PCC\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺系統員工.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺系統員工.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\kang0\OneDrive\桌面\期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Desktop\期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.pdb
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.pdb
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\後臺0328_期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺系統員工.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.exe
+D:\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺系統員工.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.消費紀錄.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\code練習\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\kang0\OneDrive\桌面\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\User\Desktop\後臺0328_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm會員登入.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI - 複製\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\前後臺0401_期中專案UI\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.pdb
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Downloads\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\User\Desktop\後臺_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺+交易_0403-20240403T004245Z-001\後臺_0403\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0403\期中專案\obj\Debug\期中專案.Frm新增員工_Shawn.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm新增員工_Shawn.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺(合交易)\後臺_0404\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm新增員工_Shawn.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040524\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040624\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040724\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.pdb
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.imageText.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\kang0\OneDrive\桌面\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.imageText.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.exe
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.pdb
+C:\Users\User\Desktop\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\Project\040824_Kang(2)\後臺_040724 (合版)\後臺_040724 (合版)\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040824\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\project_完更\後臺_040924\期中專案\obj\Debug\期中專案.Frm編輯會員.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\期中專案.exe.config
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\期中專案.pdb
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\EntityFramework.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\EntityFramework.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm編輯會員.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.View.imageText.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member1.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member2.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.csproj.Up2Date
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.exe
+D:\Data\code_test\MSIT158\project_完更\後臺_041024\期中專案\obj\Debug\期中專案.pdb
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\期中專案.exe.config
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\期中專案.exe
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\期中專案.pdb
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\EntityFramework.dll
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\EntityFramework.xml
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Shared\專題\第二組\後臺_041024\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.csproj.SuggestedBindingRedirects.cache
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm編輯會員.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.View.imageText.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.csproj.CopyComplete
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.exe
+C:\Shared\專題\第二組\後臺_041024\期中專案\obj\Debug\期中專案.pdb
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\期中專案.exe
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\期中專案.pdb
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm編輯會員.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.View.imageText.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.exe
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\obj\Debug\期中專案.pdb
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\Database1.mdf
+C:\Users\wanks\OneDrive\桌面\後臺_041024\期中專案\bin\Debug\Database1_log.ldf
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\Database1.mdf
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\Database1_log.ldf
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\期中專案.exe.config
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\期中專案.exe
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\期中專案.pdb
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\EntityFramework.dll
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\EntityFramework.xml
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.csproj.AssemblyReference.cache
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\Package2.FrmAddPackage.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.借放.Frm供應商明細.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.借放.Frm供應商編輯.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm包裝圖片.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm新增行銷活動.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm會員明細.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm消費紀錄.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm消費紀錄圖表.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm編輯會員.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm行銷活動.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.View.imageText.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.View.titleTextBox.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.FrmC_Second.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.Credit_Card.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.FrmPay.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.FrmPayWay.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.FrmPaywayList.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm員工明細.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm後台訂單系統.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm後臺業績.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm新增員工.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm新增商品.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm員工登入.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm活動圖表.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm產品圖表.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm產品明細.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm產品編輯.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Frm行銷活動搜尋.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.PayBox.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.StatusBox.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.TESTorder.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.付帳.Transaction_History.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.FrmInsertOrder.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.FrmOrder.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.FrmOrderList.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.Log_In.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.Member1.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.會員.Member2.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.行銷活動圖.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.Properties.Resources.resources
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.csproj.GenerateResource.cache
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.csproj.CoreCompileInputs.cache
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.csproj.Up2Date
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.exe
+C:\Users\wanks\OneDrive\桌面\0507後臺\期中專案\obj\Debug\期中專案.pdb

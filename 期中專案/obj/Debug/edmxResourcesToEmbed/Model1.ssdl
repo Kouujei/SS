@@ -1,0 +1,784 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bags">
+    <Key>
+      <PropertyRef Name="BagID" />
+    </Key>
+    <Property Name="BagID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BagType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="Picture" Type="nvarchar(max)" />
+    <Property Name="Price" Type="money" />
+    <Property Name="Size" Type="nvarchar" MaxLength="200" />
+    <Property Name="MaterialID" Type="int" />
+    <Property Name="SuitableProductsID" Type="int" />
+    <Property Name="PStlyeID" Type="int" />
+  </EntityType>
+  <EntityType Name="Boxes">
+    <Key>
+      <PropertyRef Name="BoxID" />
+    </Key>
+    <Property Name="BoxID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BoxType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="Picture" Type="nvarchar(max)" />
+    <Property Name="Price" Type="money" />
+    <Property Name="Size" Type="nvarchar" MaxLength="200" />
+    <Property Name="MaterialID" Type="int" />
+    <Property Name="SuitableProductsID" Type="int" />
+    <Property Name="PStlyeID" Type="int" />
+  </EntityType>
+  <EntityType Name="Cards">
+    <Key>
+      <PropertyRef Name="CardID" />
+    </Key>
+    <Property Name="CardID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CardType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="Picture" Type="nvarchar(max)" />
+    <Property Name="Price" Type="money" />
+    <Property Name="SuitableProductsID" Type="int" />
+    <Property Name="PStlyeID" Type="int" />
+  </EntityType>
+  <EntityType Name="GiftPackageStyle">
+    <Key>
+      <PropertyRef Name="PStlyeID" />
+    </Key>
+    <Property Name="PStlyeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StyleName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Picture" Type="varchar(max)" />
+    <Property Name="Description" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="MaterialColor">
+    <Key>
+      <PropertyRef Name="ColorID" />
+    </Key>
+    <Property Name="ColorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ColorName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="RGB" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="packageMaterial">
+    <Key>
+      <PropertyRef Name="MaterialID" />
+    </Key>
+    <Property Name="MaterialID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaterialName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Picture" Type="nvarchar(max)" />
+    <Property Name="ColorID" Type="int" />
+    <Property Name="Description" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="tActive">
+    <Key>
+      <PropertyRef Name="ActiveID" />
+    </Key>
+    <Property Name="ActiveID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ActiveName" Type="nvarchar" MaxLength="50" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="Discount" Type="decimal" Precision="3" Scale="2" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" />
+    <Property Name="ActiveImage" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tAllPackage">
+    <Key>
+      <PropertyRef Name="PackageID" />
+    </Key>
+    <Property Name="PackageID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PackName" Type="varchar" MaxLength="50" />
+    <Property Name="Price" Type="money" />
+    <Property Name="Picture" Type="varchar(max)" />
+    <Property Name="PackageStyleID" Type="int" />
+    <Property Name="TypeID" Type="int" />
+    <Property Name="MaterialID" Type="int" />
+  </EntityType>
+  <EntityType Name="tAppraisal">
+    <Key>
+      <PropertyRef Name="RankID" />
+    </Key>
+    <Property Name="RankID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Rank" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tCart">
+    <Key>
+      <PropertyRef Name="CartID" />
+    </Key>
+    <Property Name="CartID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MemberID" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="Qty" Type="int" />
+    <Property Name="Check" Type="bit" />
+  </EntityType>
+  <EntityType Name="tCategory">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="200" />
+    <Property Name="CategoryCName" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="tDepartment">
+    <Key>
+      <PropertyRef Name="DepID" />
+    </Key>
+    <Property Name="DepID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmployeeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cellphone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Birthday" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="E-mail" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeePhoto" Type="varbinary(max)" />
+    <Property Name="OnBoardDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="DepID" Type="int" />
+  </EntityType>
+  <EntityType Name="tEventLog">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Name="EventID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmployeeID" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="EventDateTime" Type="nvarchar" MaxLength="50" />
+    <Property Name="EventBrief" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="tKeyword">
+    <Key>
+      <PropertyRef Name="TagID" />
+    </Key>
+    <Property Name="ProductID" Type="int" />
+    <Property Name="TagID" Type="int" Nullable="false" />
+    <Property Name="Festival" Type="varchar" MaxLength="50" />
+    <Property Name="Topic" Type="varchar" MaxLength="50" />
+    <Property Name="Color" Type="varchar" MaxLength="50" />
+    <Property Name="Tag" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tMember">
+    <Key>
+      <PropertyRef Name="MemberID" />
+    </Key>
+    <Property Name="MemberID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MemberName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cellphone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Birthday" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="E-mail" Type="nvarchar" MaxLength="50" />
+    <Property Name="Points" Type="int" />
+    <Property Name="VIP" Type="bit" />
+    <Property Name="MemberPhoto" Type="varbinary(max)" />
+    <Property Name="Wallet" Type="money" />
+  </EntityType>
+  <EntityType Name="tOrder">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GUI" Type="nvarchar" MaxLength="10" />
+    <Property Name="OrderDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="MemberID" Type="int" />
+    <Property Name="PackageWayID" Type="int" />
+    <Property Name="StatusID" Type="int" />
+    <Property Name="RecMemberID" Type="int" />
+    <Property Name="Shipping" Type="int" />
+  </EntityType>
+  <EntityType Name="tPackage">
+    <Key>
+      <PropertyRef Name="PackageWayID" />
+    </Key>
+    <Property Name="PackageWayID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PackageWay" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tPackageWayDetail">
+    <Key>
+      <PropertyRef Name="PackageWayDetailID" />
+    </Key>
+    <Property Name="PackageWayDetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PackageID" Type="int" />
+    <Property Name="OrderID" Type="int" />
+    <Property Name="PackQty" Type="int" />
+  </EntityType>
+  <EntityType Name="tPay">
+    <Key>
+      <PropertyRef Name="PayID" />
+    </Key>
+    <Property Name="PayID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderID" Type="int" />
+    <Property Name="PayTypeID" Type="int" />
+    <Property Name="Amount" Type="money" />
+  </EntityType>
+  <EntityType Name="tPayType">
+    <Key>
+      <PropertyRef Name="PayTypeID" />
+    </Key>
+    <Property Name="PayTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PayKind" Type="nvarchar" MaxLength="50" />
+    <Property Name="PayTypeNo" Type="int" />
+    <Property Name="PayTypeName" Type="nvarchar" MaxLength="200" />
+    <Property Name="PayTypeImagePath" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="tProduct">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="200" />
+    <Property Name="Stocks" Type="int" />
+    <Property Name="SupplierID" Type="int" />
+    <Property Name="SubCategoryID" Type="int" />
+    <Property Name="ProductPhoto" Type="varbinary(max)" />
+    <Property Name="UnitPrice" Type="money" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" />
+    <Property Name="ActiveID" Type="int" />
+    <Property Name="LaunchTime" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cost" Type="money" />
+  </EntityType>
+  <EntityType Name="tPurchase">
+    <Key>
+      <PropertyRef Name="PurchaseID" />
+    </Key>
+    <Property Name="OrderID" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="Qty" Type="int" />
+    <Property Name="Memo" Type="nvarchar" MaxLength="250" />
+    <Property Name="PurchaseID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tReview">
+    <Key>
+      <PropertyRef Name="ReviewID" />
+    </Key>
+    <Property Name="ReviewID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MemberID" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="RankID" Type="int" />
+    <Property Name="Comment" Type="nvarchar" MaxLength="250" />
+    <Property Name="ReviewDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="PurchaseID" Type="int" />
+  </EntityType>
+  <EntityType Name="tStatus">
+    <Key>
+      <PropertyRef Name="StatusID" />
+    </Key>
+    <Property Name="StatusID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StatusName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tSubCategory">
+    <Key>
+      <PropertyRef Name="SubCategoryID" />
+    </Key>
+    <Property Name="SubCategoryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SubCategoryName" Type="nvarchar" MaxLength="200" />
+    <Property Name="SubCategoryCName" Type="nvarchar" MaxLength="200" />
+    <Property Name="CategoryID" Type="int" />
+  </EntityType>
+  <EntityType Name="tSupplier">
+    <Key>
+      <PropertyRef Name="SupplierID" />
+    </Key>
+    <Property Name="SupplierID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SupplierName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nchar" MaxLength="250" />
+    <Property Name="SupplierPhoto" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Bags_GiftPackageStyle1">
+    <End Role="GiftPackageStyle" Type="Self.GiftPackageStyle" Multiplicity="0..1" />
+    <End Role="Bags" Type="Self.Bags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftPackageStyle">
+        <PropertyRef Name="PStlyeID" />
+      </Principal>
+      <Dependent Role="Bags">
+        <PropertyRef Name="PStlyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bags_packageMaterial1">
+    <End Role="packageMaterial" Type="Self.packageMaterial" Multiplicity="0..1" />
+    <End Role="Bags" Type="Self.Bags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="packageMaterial">
+        <PropertyRef Name="MaterialID" />
+      </Principal>
+      <Dependent Role="Bags">
+        <PropertyRef Name="MaterialID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Boxes_GiftPackageStyle1">
+    <End Role="GiftPackageStyle" Type="Self.GiftPackageStyle" Multiplicity="0..1" />
+    <End Role="Boxes" Type="Self.Boxes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftPackageStyle">
+        <PropertyRef Name="PStlyeID" />
+      </Principal>
+      <Dependent Role="Boxes">
+        <PropertyRef Name="PStlyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Boxes_packageMaterial1">
+    <End Role="packageMaterial" Type="Self.packageMaterial" Multiplicity="0..1" />
+    <End Role="Boxes" Type="Self.Boxes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="packageMaterial">
+        <PropertyRef Name="MaterialID" />
+      </Principal>
+      <Dependent Role="Boxes">
+        <PropertyRef Name="MaterialID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cards_GiftPackageStyle1">
+    <End Role="GiftPackageStyle" Type="Self.GiftPackageStyle" Multiplicity="0..1" />
+    <End Role="Cards" Type="Self.Cards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftPackageStyle">
+        <PropertyRef Name="PStlyeID" />
+      </Principal>
+      <Dependent Role="Cards">
+        <PropertyRef Name="PStlyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventLog_tEmployee">
+    <End Role="tEmployee" Type="Self.tEmployee" Multiplicity="0..1" />
+    <End Role="tEventLog" Type="Self.tEventLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tEmployee">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="tEventLog">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_packageMaterial_MaterialColor">
+    <End Role="MaterialColor" Type="Self.MaterialColor" Multiplicity="0..1" />
+    <End Role="packageMaterial" Type="Self.packageMaterial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaterialColor">
+        <PropertyRef Name="ColorID" />
+      </Principal>
+      <Dependent Role="packageMaterial">
+        <PropertyRef Name="ColorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tAllPackage_GiftPackageStyle1">
+    <End Role="GiftPackageStyle" Type="Self.GiftPackageStyle" Multiplicity="0..1" />
+    <End Role="tAllPackage" Type="Self.tAllPackage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftPackageStyle">
+        <PropertyRef Name="PStlyeID" />
+      </Principal>
+      <Dependent Role="tAllPackage">
+        <PropertyRef Name="PackageStyleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tAllPackage_packageMaterial">
+    <End Role="packageMaterial" Type="Self.packageMaterial" Multiplicity="0..1" />
+    <End Role="tAllPackage" Type="Self.tAllPackage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="packageMaterial">
+        <PropertyRef Name="MaterialID" />
+      </Principal>
+      <Dependent Role="tAllPackage">
+        <PropertyRef Name="MaterialID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tCart_tMember">
+    <End Role="tMember" Type="Self.tMember" Multiplicity="0..1" />
+    <End Role="tCart" Type="Self.tCart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tMember">
+        <PropertyRef Name="MemberID" />
+      </Principal>
+      <Dependent Role="tCart">
+        <PropertyRef Name="MemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tCart_tProduct">
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="0..1" />
+    <End Role="tCart" Type="Self.tCart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tProduct">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="tCart">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tEmployee_Department">
+    <End Role="tDepartment" Type="Self.tDepartment" Multiplicity="0..1" />
+    <End Role="tEmployee" Type="Self.tEmployee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tDepartment">
+        <PropertyRef Name="DepID" />
+      </Principal>
+      <Dependent Role="tEmployee">
+        <PropertyRef Name="DepID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tKeyword_tProduct">
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="0..1" />
+    <End Role="tKeyword" Type="Self.tKeyword" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tProduct">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="tKeyword">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tOrder_tMember">
+    <End Role="tMember" Type="Self.tMember" Multiplicity="0..1" />
+    <End Role="tOrder" Type="Self.tOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tMember">
+        <PropertyRef Name="MemberID" />
+      </Principal>
+      <Dependent Role="tOrder">
+        <PropertyRef Name="MemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tOrder_tPackageWayDetail">
+    <End Role="tPackageWayDetail" Type="Self.tPackageWayDetail" Multiplicity="0..1" />
+    <End Role="tOrder" Type="Self.tOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tPackageWayDetail">
+        <PropertyRef Name="PackageWayDetailID" />
+      </Principal>
+      <Dependent Role="tOrder">
+        <PropertyRef Name="PackageWayID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tOrder_tStatus">
+    <End Role="tStatus" Type="Self.tStatus" Multiplicity="0..1" />
+    <End Role="tOrder" Type="Self.tOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tStatus">
+        <PropertyRef Name="StatusID" />
+      </Principal>
+      <Dependent Role="tOrder">
+        <PropertyRef Name="StatusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tPackageWayDetail_tAllPackage">
+    <End Role="tAllPackage" Type="Self.tAllPackage" Multiplicity="0..1" />
+    <End Role="tPackageWayDetail" Type="Self.tPackageWayDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tAllPackage">
+        <PropertyRef Name="PackageID" />
+      </Principal>
+      <Dependent Role="tPackageWayDetail">
+        <PropertyRef Name="PackageID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tPay_tOrder">
+    <End Role="tOrder" Type="Self.tOrder" Multiplicity="0..1" />
+    <End Role="tPay" Type="Self.tPay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tOrder">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="tPay">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tPay_tPayType">
+    <End Role="tPayType" Type="Self.tPayType" Multiplicity="0..1" />
+    <End Role="tPay" Type="Self.tPay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tPayType">
+        <PropertyRef Name="PayTypeID" />
+      </Principal>
+      <Dependent Role="tPay">
+        <PropertyRef Name="PayTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tProduct_tActive">
+    <End Role="tActive" Type="Self.tActive" Multiplicity="0..1" />
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tActive">
+        <PropertyRef Name="ActiveID" />
+      </Principal>
+      <Dependent Role="tProduct">
+        <PropertyRef Name="ActiveID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tProduct_tSubCategory">
+    <End Role="tSubCategory" Type="Self.tSubCategory" Multiplicity="0..1" />
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tSubCategory">
+        <PropertyRef Name="SubCategoryID" />
+      </Principal>
+      <Dependent Role="tProduct">
+        <PropertyRef Name="SubCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tProduct_tSupplier">
+    <End Role="tSupplier" Type="Self.tSupplier" Multiplicity="0..1" />
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tSupplier">
+        <PropertyRef Name="SupplierID" />
+      </Principal>
+      <Dependent Role="tProduct">
+        <PropertyRef Name="SupplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tPurchase_tOrder">
+    <End Role="tOrder" Type="Self.tOrder" Multiplicity="0..1" />
+    <End Role="tPurchase" Type="Self.tPurchase" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tOrder">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="tPurchase">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tPurchase_tProduct">
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="0..1" />
+    <End Role="tPurchase" Type="Self.tPurchase" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tProduct">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="tPurchase">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tReview_tAppraisal">
+    <End Role="tAppraisal" Type="Self.tAppraisal" Multiplicity="0..1" />
+    <End Role="tReview" Type="Self.tReview" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tAppraisal">
+        <PropertyRef Name="RankID" />
+      </Principal>
+      <Dependent Role="tReview">
+        <PropertyRef Name="RankID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tReview_tMember">
+    <End Role="tMember" Type="Self.tMember" Multiplicity="0..1" />
+    <End Role="tReview" Type="Self.tReview" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tMember">
+        <PropertyRef Name="MemberID" />
+      </Principal>
+      <Dependent Role="tReview">
+        <PropertyRef Name="MemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tReview_tProduct">
+    <End Role="tProduct" Type="Self.tProduct" Multiplicity="0..1" />
+    <End Role="tReview" Type="Self.tReview" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tProduct">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="tReview">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tReview_tPurchase">
+    <End Role="tPurchase" Type="Self.tPurchase" Multiplicity="0..1" />
+    <End Role="tReview" Type="Self.tReview" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tPurchase">
+        <PropertyRef Name="PurchaseID" />
+      </Principal>
+      <Dependent Role="tReview">
+        <PropertyRef Name="PurchaseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tSubCategory_tCategory">
+    <End Role="tCategory" Type="Self.tCategory" Multiplicity="0..1" />
+    <End Role="tSubCategory" Type="Self.tSubCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tCategory">
+        <PropertyRef Name="CategoryID" />
+      </Principal>
+      <Dependent Role="tSubCategory">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Bags" EntityType="Self.Bags" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Boxes" EntityType="Self.Boxes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cards" EntityType="Self.Cards" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GiftPackageStyle" EntityType="Self.GiftPackageStyle" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MaterialColor" EntityType="Self.MaterialColor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="packageMaterial" EntityType="Self.packageMaterial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tActive" EntityType="Self.tActive" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tAllPackage" EntityType="Self.tAllPackage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tAppraisal" EntityType="Self.tAppraisal" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tCart" EntityType="Self.tCart" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tCategory" EntityType="Self.tCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tDepartment" EntityType="Self.tDepartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tEmployee" EntityType="Self.tEmployee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tEventLog" EntityType="Self.tEventLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tKeyword" EntityType="Self.tKeyword" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tMember" EntityType="Self.tMember" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tOrder" EntityType="Self.tOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tPackage" EntityType="Self.tPackage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tPackageWayDetail" EntityType="Self.tPackageWayDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tPay" EntityType="Self.tPay" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tPayType" EntityType="Self.tPayType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tProduct" EntityType="Self.tProduct" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tPurchase" EntityType="Self.tPurchase" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tReview" EntityType="Self.tReview" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tStatus" EntityType="Self.tStatus" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tSubCategory" EntityType="Self.tSubCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tSupplier" EntityType="Self.tSupplier" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Bags_GiftPackageStyle1" Association="Self.FK_Bags_GiftPackageStyle1">
+      <End Role="GiftPackageStyle" EntitySet="GiftPackageStyle" />
+      <End Role="Bags" EntitySet="Bags" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bags_packageMaterial1" Association="Self.FK_Bags_packageMaterial1">
+      <End Role="packageMaterial" EntitySet="packageMaterial" />
+      <End Role="Bags" EntitySet="Bags" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Boxes_GiftPackageStyle1" Association="Self.FK_Boxes_GiftPackageStyle1">
+      <End Role="GiftPackageStyle" EntitySet="GiftPackageStyle" />
+      <End Role="Boxes" EntitySet="Boxes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Boxes_packageMaterial1" Association="Self.FK_Boxes_packageMaterial1">
+      <End Role="packageMaterial" EntitySet="packageMaterial" />
+      <End Role="Boxes" EntitySet="Boxes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cards_GiftPackageStyle1" Association="Self.FK_Cards_GiftPackageStyle1">
+      <End Role="GiftPackageStyle" EntitySet="GiftPackageStyle" />
+      <End Role="Cards" EntitySet="Cards" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventLog_tEmployee" Association="Self.FK_EventLog_tEmployee">
+      <End Role="tEmployee" EntitySet="tEmployee" />
+      <End Role="tEventLog" EntitySet="tEventLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_packageMaterial_MaterialColor" Association="Self.FK_packageMaterial_MaterialColor">
+      <End Role="MaterialColor" EntitySet="MaterialColor" />
+      <End Role="packageMaterial" EntitySet="packageMaterial" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tAllPackage_GiftPackageStyle1" Association="Self.FK_tAllPackage_GiftPackageStyle1">
+      <End Role="GiftPackageStyle" EntitySet="GiftPackageStyle" />
+      <End Role="tAllPackage" EntitySet="tAllPackage" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tAllPackage_packageMaterial" Association="Self.FK_tAllPackage_packageMaterial">
+      <End Role="packageMaterial" EntitySet="packageMaterial" />
+      <End Role="tAllPackage" EntitySet="tAllPackage" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tCart_tMember" Association="Self.FK_tCart_tMember">
+      <End Role="tMember" EntitySet="tMember" />
+      <End Role="tCart" EntitySet="tCart" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tCart_tProduct" Association="Self.FK_tCart_tProduct">
+      <End Role="tProduct" EntitySet="tProduct" />
+      <End Role="tCart" EntitySet="tCart" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tEmployee_Department" Association="Self.FK_tEmployee_Department">
+      <End Role="tDepartment" EntitySet="tDepartment" />
+      <End Role="tEmployee" EntitySet="tEmployee" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tKeyword_tProduct" Association="Self.FK_tKeyword_tProduct">
+      <End Role="tProduct" EntitySet="tProduct" />
+      <End Role="tKeyword" EntitySet="tKeyword" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tOrder_tMember" Association="Self.FK_tOrder_tMember">
+      <End Role="tMember" EntitySet="tMember" />
+      <End Role="tOrder" EntitySet="tOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tOrder_tPackageWayDetail" Association="Self.FK_tOrder_tPackageWayDetail">
+      <End Role="tPackageWayDetail" EntitySet="tPackageWayDetail" />
+      <End Role="tOrder" EntitySet="tOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tOrder_tStatus" Association="Self.FK_tOrder_tStatus">
+      <End Role="tStatus" EntitySet="tStatus" />
+      <End Role="tOrder" EntitySet="tOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tPackageWayDetail_tAllPackage" Association="Self.FK_tPackageWayDetail_tAllPackage">
+      <End Role="tAllPackage" EntitySet="tAllPackage" />
+      <End Role="tPackageWayDetail" EntitySet="tPackageWayDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tPay_tOrder" Association="Self.FK_tPay_tOrder">
+      <End Role="tOrder" EntitySet="tOrder" />
+      <End Role="tPay" EntitySet="tPay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tPay_tPayType" Association="Self.FK_tPay_tPayType">
+      <End Role="tPayType" EntitySet="tPayType" />
+      <End Role="tPay" EntitySet="tPay" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tProduct_tActive" Association="Self.FK_tProduct_tActive">
+      <End Role="tActive" EntitySet="tActive" />
+      <End Role="tProduct" EntitySet="tProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tProduct_tSubCategory" Association="Self.FK_tProduct_tSubCategory">
+      <End Role="tSubCategory" EntitySet="tSubCategory" />
+      <End Role="tProduct" EntitySet="tProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tProduct_tSupplier" Association="Self.FK_tProduct_tSupplier">
+      <End Role="tSupplier" EntitySet="tSupplier" />
+      <End Role="tProduct" EntitySet="tProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tPurchase_tOrder" Association="Self.FK_tPurchase_tOrder">
+      <End Role="tOrder" EntitySet="tOrder" />
+      <End Role="tPurchase" EntitySet="tPurchase" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tPurchase_tProduct" Association="Self.FK_tPurchase_tProduct">
+      <End Role="tProduct" EntitySet="tProduct" />
+      <End Role="tPurchase" EntitySet="tPurchase" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tReview_tAppraisal" Association="Self.FK_tReview_tAppraisal">
+      <End Role="tAppraisal" EntitySet="tAppraisal" />
+      <End Role="tReview" EntitySet="tReview" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tReview_tMember" Association="Self.FK_tReview_tMember">
+      <End Role="tMember" EntitySet="tMember" />
+      <End Role="tReview" EntitySet="tReview" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tReview_tProduct" Association="Self.FK_tReview_tProduct">
+      <End Role="tProduct" EntitySet="tProduct" />
+      <End Role="tReview" EntitySet="tReview" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tReview_tPurchase" Association="Self.FK_tReview_tPurchase">
+      <End Role="tPurchase" EntitySet="tPurchase" />
+      <End Role="tReview" EntitySet="tReview" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tSubCategory_tCategory" Association="Self.FK_tSubCategory_tCategory">
+      <End Role="tCategory" EntitySet="tCategory" />
+      <End Role="tSubCategory" EntitySet="tSubCategory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
